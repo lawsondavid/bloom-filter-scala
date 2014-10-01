@@ -8,10 +8,11 @@ This is a scala implementation of the bloomfilter kata from http://codekata.com/
 
 Assuming you have SBT installed, start the console
 
->sbt
+\> sbt
+
 then run the tests
 
->test
+\> test
 
 See branches for alternate approaches
 
